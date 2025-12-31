@@ -1,0 +1,21 @@
+{
+  "description" : "Expose GitHub-hosted PromptPlus collections",
+  "name" : "PromptPlus MCP",
+  "resources" : [
+    {
+      "id" : "prompt:\/\/collection-053a09e8-5f04-4447-8448-e7468bb87a64",
+      "mimeType" : "application\/json",
+      "name" : "笑话",
+      "source" : {
+        "github" : {
+          "owner" : "IamWills",
+          "path" : "collections\/collection-053a09e8-5f04-4447-8448-e7468bb87a64.json",
+          "ref" : "main",
+          "repo" : "Jokemkr"
+        },
+        "type" : "github"
+      }
+    }
+  ],
+  "version" : "1.0.0"
+}
