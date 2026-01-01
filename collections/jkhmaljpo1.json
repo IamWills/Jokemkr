@@ -1,0 +1,16 @@
+{
+  "enabled" : true,
+  "id" : "jkhmaljpo1",
+  "items" : [
+    {
+      "content" : "审核过程说明",
+      "description" : "指导审核",
+      "id" : "a",
+      "priority" : 0,
+      "role" : "system"
+    }
+  ],
+  "lastUpdated" : "2026-01-01T16:33:47Z",
+  "name" : "系统审核",
+  "version" : "1.0.0"
+}
