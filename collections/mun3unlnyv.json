@@ -1,0 +1,15 @@
+{
+  "enabled" : true,
+  "id" : "mun3unlnyv",
+  "items" : [
+    {
+      "content" : "这个会自动合并到已有仓库吗？",
+      "id" : "a",
+      "priority" : 0,
+      "role" : "system"
+    }
+  ],
+  "lastUpdated" : "2026-01-01T15:39:34Z",
+  "name" : "jokemkr2",
+  "version" : "1.0.0"
+}
