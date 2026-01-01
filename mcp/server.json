@@ -29,6 +29,20 @@
         },
         "type" : "github"
       }
+    },
+    {
+      "id" : "prompt:\/\/jkhmaljpo1",
+      "mimeType" : "application\/json",
+      "name" : "系统审核",
+      "source" : {
+        "github" : {
+          "owner" : "IamWills",
+          "path" : "collections\/jkhmaljpo1.json",
+          "ref" : "main",
+          "repo" : "Jokemkr"
+        },
+        "type" : "github"
+      }
     }
   ],
   "version" : "1.0.0"
