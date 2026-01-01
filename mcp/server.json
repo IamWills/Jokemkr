@@ -15,6 +15,20 @@
         },
         "type" : "github"
       }
+    },
+    {
+      "id" : "prompt:\/\/mun3unlnyv",
+      "mimeType" : "application\/json",
+      "name" : "jokemkr2",
+      "source" : {
+        "github" : {
+          "owner" : "IamWills",
+          "path" : "collections\/mun3unlnyv.json",
+          "ref" : "main",
+          "repo" : "Jokemkr"
+        },
+        "type" : "github"
+      }
     }
   ],
   "version" : "1.0.0"
